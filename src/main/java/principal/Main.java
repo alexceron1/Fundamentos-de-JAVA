@@ -1,26 +1,23 @@
 package principal;
 
-import metodosClaseString.MetodosString;
+import ManipulaciondeCadenas.ClaseString;
+import ManipulaciondeCadenas.ClaseStringBuffer;
+import ManipulaciondeCadenas.ClaseStringBuilder;
 import arrays.Arrays;
 import arrays.Matrices;
 import arrays.ArrayMetodos;
+import arrays.Listas;
 public class Main {
     public static void main(String[] args){
-        MetodosString ejemplo1 = new MetodosString();
+        ClaseString ejemplo1 = new ClaseString();
         Arrays ejemplo2 = new Arrays();
         Matrices ejemplo3 = new Matrices();
         ArrayMetodos ejemplo4 = new ArrayMetodos();
+        Listas ejemplo5 = new Listas();
+        ClaseStringBuilder ejemplo6 = new ClaseStringBuilder();
         
-        /*ejemplo1.longitudNombre();
-        ejemplo1.agregarTexto();
-        ejemplo1.mostrarCaracter();
-        ejemplo1.extraerTexto();
-        ejemplo1.compararCadenas();
-        ejemplo1.verificarCadena();
-        ejemplo1.verificarPosicion();
-        ejemplo1.reemplazar();
-        ejemplo1.eliminarEspacios();
-        ejemplo1.mayusculaMinuscula();
+        /*
+        ejemplo1.mostrarDatos();
         
         ejemplo2.trabajarConArrays();
         ejemplo3.trabajarConMatrices();
@@ -32,6 +29,9 @@ public class Main {
         ejemplo4.rellenarArreglo();
         ejemplo4.busquedaBinaria();
         ejemplo4.comparar();
-        ejemplo4.convertirALista();*/
+        ejemplo4.convertirALista(); 
+        
+        ejemplo5.llenarListaNombres();*/
+        ejemplo6.mostrarDatos();
     }
 }
