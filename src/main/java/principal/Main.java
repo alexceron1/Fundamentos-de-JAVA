@@ -1,23 +1,23 @@
 package principal;
 
-import ManipulaciondeCadenas.ClaseString;
-import ManipulaciondeCadenas.ClaseStringBuffer;
-import ManipulaciondeCadenas.ClaseStringBuilder;
-import arrays.Arrays;
-import arrays.Matrices;
-import arrays.ArrayMetodos;
-import arrays.Listas;
-import tiposdeDatos.ConvertirDatos;
+import arrays.*;
+
+import ManipulaciondeCadenas.*;
+import tiposdeDatos.*;
+import metodos.*;
+
 public class Main {
     public static void main(String[] args){
-        ClaseString ejemplo1 = new ClaseString();
+        //ClaseString ejemplo1 = new ClaseString();
         Arrays ejemplo2 = new Arrays();
         Matrices ejemplo3 = new Matrices();
         ArrayMetodos ejemplo4 = new ArrayMetodos();
         Listas ejemplo5 = new Listas();
-        ClaseStringBuilder ejemplo6 = new ClaseStringBuilder();
+        //ClaseStringBuilder ejemplo6 = new ClaseStringBuilder();
         ConvertirDatos ejemplo7 = new ConvertirDatos();
-        
+        Recursividad ejemplo8 = new Recursividad();
+        Primitivos ejemplo9 = new Primitivos();
+        Caracteres ejemplo10 = new Caracteres();
         /*
         ejemplo1.mostrarDatos();
         
@@ -28,6 +28,9 @@ public class Main {
         
         ejemplo5.llenarListaNombres();
         ejemplo6.mostrarDatos();
-        ejemplo7.mostrarDatos();*/
+        ejemplo7.mostrarDatos();
+        ejemplo8.mostrarDatos();
+        ejemplo9.mostrarDatos();*/
+        ejemplo10.mostrarDatos();
     }
 }
