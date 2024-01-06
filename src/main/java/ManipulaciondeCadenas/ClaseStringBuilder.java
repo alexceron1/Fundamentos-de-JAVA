@@ -1,4 +1,4 @@
-package ManipulaciondeCadenas;
+package manipulaciondeCadenas;
 
 public class ClaseStringBuilder {
     //Se inicializa objeto de la clase StringBuilder con el constructor vacio

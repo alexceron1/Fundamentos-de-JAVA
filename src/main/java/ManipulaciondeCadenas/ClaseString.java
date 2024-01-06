@@ -1,4 +1,4 @@
-package ManipulaciondeCadenas;
+package manipulaciondeCadenas;
 
 /**
  * Se implementa el uso de algunos metodos de la clase String

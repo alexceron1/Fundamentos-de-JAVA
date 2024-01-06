@@ -1,4 +1,4 @@
-package ManipulaciondeCadenas;
+package manipulaciondeCadenas;
 
 public class ClaseStringBuffer {
     /* Basicamente es parecido a StringBuilder 

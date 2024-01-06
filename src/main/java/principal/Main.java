@@ -1,8 +1,7 @@
 package principal;
 
 import arrays.*;
-
-import ManipulaciondeCadenas.*;
+import manipulaciondeCadenas.*;
 import tiposdeDatos.*;
 import metodos.*;
 
