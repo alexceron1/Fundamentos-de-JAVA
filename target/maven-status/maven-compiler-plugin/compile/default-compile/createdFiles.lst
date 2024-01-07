@@ -1,4 +1,5 @@
 manipulaciondeCadenas\ClaseString.class
+manejoDeExcepciones\Excepciones.class
 arrays\Listas.class
 tiposdeDatos\ConvertirDatos.class
 arrays\Matrices.class
@@ -7,4 +8,5 @@ manipulaciondeCadenas\ClaseStringBuffer.class
 manipulaciondeCadenas\ClaseStringBuilder.class
 arrays\ArrayMetodos.class
 arrays\Arrays.class
+claseDateYCalendar\FechaStringAObjetoDate.class
 principal\Main.class
